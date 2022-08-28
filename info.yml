@@ -12,6 +12,5 @@ tags:
   - networking
 dependencies:
   ansible.utils: ">=2.7,<2.9"
-repository: https://github.com/emzaden/ansible-Cisco
-homepage: https://github.com/CiscoISE/ansible-ise
-issues: https://github.com/emzaden/ansible-Cisco/issues
+repository: https://github.com/devnetworking/ansible-Cisco
+issues: https://github.com/devnetworking/ansible-Cisco/issues
