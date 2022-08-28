@@ -1,0 +1,19 @@
+[DEV]
+router-01 ansible-host=A.A.A.A
+router-02 ansible-host=B.B.B.B
+router-03 ansible-host=C.C.C.C
+
+[TEST]
+router-04 ansible-host=AA.AA.AA.AA
+router-05 ansible-host=BB.BB.BB.BB
+router-06 ansible-host=CC.CC.CC.CC
+
+[QA]
+router-06 ansible-host=A.A.A.A
+router-07 ansible-host=B.B.B.B
+router-08 ansible-host=C.C.C.C
+
+[PROD]
+router-09 ansible-host=AA.AA.AA.AA
+router-10 ansible-host=BB.BB.BB.BB
+router-11 ansible-host=CC.CC.CC.CC
