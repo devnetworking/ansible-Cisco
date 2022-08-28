@@ -1,0 +1,16 @@
+---
+condition_type: TimeAndDateCondition
+name: Test
+hours_range_start_time: "08:00"
+hours_range_end_time: "16:00"
+hours_range_exception_start_time: "12:00"
+hours_range_exception_end_time: "12:59"
+dates_range_start_date: "2022-06-01"
+dates_range_end_date: "2023-05-31"
+dates_range_exception_start_date: "2022-12-26"
+dates_range_exception_end_date: "2023-01-03"
+week_days:
+  - Saturday
+  - Sunday
+week_days_exception:
+  - Sunday

@@ -1,0 +1,17 @@
+---
+namespace: cisco-automation
+name: cisco
+version: 1.0.0
+readme: README.md
+autor: Hamza Mdn
+description: Ansible Modules Automation for Cisco
+ license_file: "LICENSE"
+tags:
+  - cisco
+  - automation
+  - networking
+dependencies:
+  ansible.utils: ">=2.7,<2.9"
+repository: https://github.com/emzaden/ansible-Cisco
+homepage: https://github.com/CiscoISE/ansible-ise
+issues: https://github.com/emzaden/ansible-Cisco/issues
